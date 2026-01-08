@@ -10,13 +10,6 @@ O **DataSight Pro** é uma ferramenta de análise de dados "No-Code" para o usu�
 
 ---
 
-## 🖼️ Demo
-
-![DataSight Demo](file:///D:/MYY/Design%20sem%20nome.gif)
-*(Uma imagem vale mais que mil linhas de código. Veja o projeto rodando acima!)*
-
----
-
 ## 🚀 Funcionalidades
 
 * **Ingestão Universal:** Suporte nativo para arquivos `.csv` e `.xlsx`.
