@@ -12,7 +12,7 @@ O **DataSight Pro** é uma ferramenta de análise de dados "No-Code" para o usu�
 
 ## 🖼️ Demo
 
-![DataSight Demo](https://via.placeholder.com/800x400?text=Substitua+por+uma+Screenshot+ou+GIF+do+seu+App)
+![DataSight Demo](file:///D:/MYY/Design%20sem%20nome.gif)
 *(Uma imagem vale mais que mil linhas de código. Veja o projeto rodando acima!)*
 
 ---
