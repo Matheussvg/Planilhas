@@ -41,5 +41,5 @@ Siga os passos abaixo para executar o projeto na sua máquina:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/datasight-pro.git](https://github.com/SEU-USUARIO/datasight-pro.git)
+   git clone [https://github.com/Matheussvg/datasight-pro.git](https://github.com/Matheussvg/datasight-pro.git)
    cd datasight-pro
